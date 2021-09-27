@@ -10,6 +10,14 @@
   )
 
   (page A4)
+  (title_block
+    (title ESP-32-time-lapse-photography)
+    (date 2021-09-27)
+    (rev v0.1)
+    (company eetree)
+    (comment 1 "Designed by John Huang")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
